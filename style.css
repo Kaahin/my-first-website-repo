@@ -29,7 +29,6 @@ nav span {
     width: 25px;
     background-color: #fff;
     border-radius: 50%;
-   
 }
 
 nav ul {
@@ -99,7 +98,13 @@ h4:after {
 main {
     display: flex;
     justify-content: center;
-    align-self: bottom;
+    align-self: center;
+
+}
+
+.arrow:hover {
+    background-color: #088;
+   
 }
 
 .arrow {
